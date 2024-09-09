@@ -1,4 +1,4 @@
-Algorithm written by Quentin Guardia (qguardia66@gmail.com)
+Algorithm written by Quentin Guardia (quentin.guardia@protonmail.com)
 
 To compute mixed and pure Nash equilibria from a bimatrix in a file:
 python nash.py file.txt
