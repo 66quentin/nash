@@ -1,5 +1,3 @@
-Algorithm written by QG (quentin.guardia@protonmail.com)
-
 To compute mixed and pure Nash equilibria from a bimatrix in a file:
 python nash.py file.txt
 
